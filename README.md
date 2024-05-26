@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm Egor Voronin
 ====================================================================================================================================
 # 💫 About Me:
-🌍 I'm developing data analysis skills through coursework and real-world projects.<br>🔭 I'm open to collaborating on IT-related projects.<br>📚 I'm a student of MISIS, Vyksa, focusing on data analytics and programming.<br>💬 Ask me about data analysis, Python, or IT.<br>🌱 Fun fact: Passionate about IT and tech trends.<br>
+🌍 I'm developing data analysis skills through coursework and real-world projects.<br>🔭 I'm open to collaborating on IT-related projects.<br>📚 I'm a student of MISIS, Vyksa, focusing on data analytics and programming.<br>💬 Ask me about data analysis, Python, or IT.<br>🌱 Passionate about IT and tech trends.<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stack-overflow&logoColor=#63AFDE)](https://stackoverflow.com/users/18585097) [![Mail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=#F65548)](mailto:voronawow1@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=#63AFDE)](https://t.me/voroninnovator) 
